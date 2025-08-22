@@ -5,7 +5,7 @@
 This article provides a practical guide to reducing the size of the `vendor/` folder in PHP/Laravel projects.
 By addressing bloated dependencies, you can achieve faster deployments, smaller Docker images, and lower storage costs.
 The steps include auditing the vendor folder, trimming unnecessary SDK components, removing test fixtures, moving dev
-tools to `require-dev`, and pruning unused packages. The result? A 40% reduction in vendor folder size (from 281 MB to
+tools to `require-dev`, and pruning unused packages. The result? A 40% reduction in vendor folder size (from 200.6 MB to
 119.8 MB), leading to quicker CI/CD pipelines and optimized resource usage.
 
 **Quick recap:**
