@@ -18,4 +18,4 @@ tools to `require-dev`, and pruning unused packages. The result? A 40% reduction
 
 Check the full article for detailed steps and examples to slim down your `vendor/` folder today!
 
-🔗 **Read the article**: [Optimize Vendor Folder Size](#)
+🔗 **Read the article**: [Optimize Vendor Folder Size](https://dev.to/tegos/optimize-vendor-folder-size-1m01)
